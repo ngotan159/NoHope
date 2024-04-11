@@ -1,1 +1,1 @@
-File thuộc main và branch Query
+File thuộc branch Query
